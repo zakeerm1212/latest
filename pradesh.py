@@ -1,0 +1,1 @@
+print("In python doesn't have boiler plate codes")
